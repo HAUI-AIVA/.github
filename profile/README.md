@@ -1,4 +1,4 @@
-🤖 HAUI-AIVA
+🤖 AI Variance Authority
 
 ---
 
@@ -8,7 +8,7 @@
 
 🧑‍💻 Team Members
 - To Quy Thanh - Data Engineer
-- Nguyen Thao Linh - Data Analyst
+- Nguyen Thao Linh - Data Engineer
 - Nguyen Dang Hieu - ML Engineer
 - Nguyen Viet Anh - Model Evaluator/Tuner 
 ---
