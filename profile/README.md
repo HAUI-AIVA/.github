@@ -1,19 +1,23 @@
-🤖 AI Variance Authority
+AI Variance Authority
 
 ---
 
-🌱 About Us: We are members of the AIVA scientific research team from the Faculty of Information Technology, Hanoi University of Industry.
+About Us: We are members of the AIVA scientific research team from the Faculty of Information Technology, Hanoi University of Industry.
+
+Advisor: Pham Viet Anh
 
 ---
 
-🧑‍💻 Team Members
+**Team Members**
+
 - To Quy Thanh - Data Engineer
 - Nguyen Thao Linh - Data Engineer
 - Nguyen Dang Hieu - ML Engineer
 - Nguyen Viet Anh - Model Evaluator/Tuner 
 ---
 
-🚀 Workflow
+**Workflow**
+
 - Data Engineering: Collecting, processing, and managing data. 
 - Modeling: Researching, training, and optimizing models. 
 - Deployment: Deploying AI models into real-world environments. 
@@ -21,7 +25,8 @@
 
 ---
 
-🔧 Tech Stack
+**Tech Stack**
+
 - Data: Python, Pandas, Numpy  
 - Feature Store: Feast, custom pipeline  
 - Modeling: XGBoost/ TensorFlow/ Scikit-learn  
@@ -30,7 +35,7 @@
 
 ---
 
-📂 Projects
+Projects
 - [Model data engineering](https://github.com/HAUI-AIVA/airquality-ml-data-engineering)
 - [Model modeling](https://github.com/HAUI-AIVA/airquality-ml-modeling)
 - [Model deployment](https://github.com/HAUI-AIVA/airquality-ml-deployment)
@@ -38,12 +43,13 @@
 
 ---
 
-🤝 Contributing
-We welcome any contributions from the community. 
-Please open an Issue or submit a Pull Request to help develop the project together.
+Contact
+- Email: Tothanh1feb3.quinn@gmail.com
+- GitHub: https://github.com/HAUI-AIVA
 
 ---
 
-## 📬 Contact
-- Email: Tothanh1feb3.quinn@gmail.com
-- GitHub: https://github.com/HAUI-AIVA
+Contributing
+We welcome any contributions from the community. 
+Please open an Issue or submit a Pull Request to help develop the project together.
+
